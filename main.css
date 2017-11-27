@@ -1,0 +1,90 @@
+*{
+	
+}
+body {
+	font-family: 'Trebuchet MS', 'Helvetica';
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	max-width: 100%;
+	background-image: url("Variety.jpg");	
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+
+
+h2 {
+	color: white;
+	font-size: 120px; 
+	max-width: 100%;
+}
+
+.sav{
+	font-size: 24px;
+	margin: 5px;
+	
+}
+
+.hero {
+	
+	background-position: relative;
+	background-size: cover;
+	background-repeat: no-repeat;
+	border-radius: 16px;
+	padding: 130px 215px;
+	margin: 30px;
+	text-shadow: 4px 4px black;
+	font-family: 'Trebuchet MS', 'Helvetica';
+	font-size: 150px;
+	color: black;
+	max-width: 100%;
+}
+
+
+p {
+	color: #FE9306;
+	font-size: 2em;
+}
+
+.hero a {
+	color: #FFFFFF;
+	font-size: 24px;
+	text-decoration: none;
+}
+
+#footer {
+	color: DarkSlateGray;
+	font-size: 16px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+	
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #800000;
+	
+}
+
+li a:active {
+	margin-top: 5px;
+}

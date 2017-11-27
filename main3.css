@@ -1,0 +1,127 @@
+body {
+	font-family: 'Trebuchet MS', 'Helvetica';
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+	background-image: url("csprinkles.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+
+
+h2 {
+	color: #E2E2E1;
+	font-size: 120px; 
+}
+
+.sav {
+	font-size: 24px;
+}
+
+.hero {
+	
+	background-position: relative;
+	background-size: cover;
+	border-radius: 16px;
+	min-height: 225px;
+	padding: 225px 300px;
+	margin: 30px;
+	text-shadow: 0 2px #000000;
+	font-family: 'Trebuchet MS', 'Helvetica';
+	font-size: 150px;
+	color: #FE9306;
+}
+
+
+p {
+	color: #FE9306;
+	font-size: 2em;
+}
+
+.hero a {
+	color: #FFFFFF;
+	font-size: 24px;
+	text-decoration: none;
+}
+
+#footer {
+	color: DarkSlateGray;
+	font-size: 16px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #800000;
+}
+
+li a:active {
+	margin-top: 5px;
+}
+
+.menu-body {
+  max-width: 680px;
+  margin: 0 auto;
+  display: block;
+  color: #FFFFFF;
+}
+
+.menu-section {
+  margin-bottom: 25px;
+}
+
+.menu-section-title {
+ font-family: 'Trebuchet MS', 'Helvetica';
+  font-size: 50px;
+  display: block;
+  font-weight:normal;
+  margin: 20px 0; 
+  text-align: Center;
+  color: #FFFFFF
+}
+
+.menu-item {
+  margin: 35px 0;
+  font-size: 18px;
+}
+
+.menu-item-name{
+	float: left
+  font-family: 'Trebuchet MS', 'Helvetica';
+  font-weight: bold;
+  border-bottom: 2px dotted #FFFFFF;
+}
+
+.menu-item-description {
+  font-style: italic;
+  font-size: .9em;
+  line-height: 1.5em;
+}
+
+.menu-item-price{
+  float: right;
+  font-weight: bold;
+ font-family: 'Trebuchet MS', 'Helvetica';
+  margin-top: -22px;
+}
